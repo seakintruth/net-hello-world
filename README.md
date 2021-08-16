@@ -1,2 +1,3 @@
 # net-hello-world
-just following [Microsoft Hellow World tutorial](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/create)
+These example apps began from the  [Microsoft web app 'Hello World' tutorial](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/create)
+and the [Microsoft app 'Hello World' tutorial](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/create)
